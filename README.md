@@ -30,14 +30,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijpatil16&theme=radical" alt="Your GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijpatil16&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Your GitHub Streak" />
 </p>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kshitijpatil16&theme=darkhub&no-frame=true&margin-w=15" alt="Your GitHub Trophies" />
-</p>
+</p> -->
 
 ## 📈 Most Used Languages
 
