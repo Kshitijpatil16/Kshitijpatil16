@@ -12,8 +12,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm currently pursuing a Electronics engineering degree at Veermata Jijabai Technological institute, Mumbai.
-- 💼 I'm passionate about firmware development, embedded systems, IoT devices and web development.
-- 👯 I'm looking to collaborate on IoT projects.
 
 ## 🛠 Tech Stack
 
